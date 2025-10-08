@@ -1,0 +1,31 @@
+
+h1{
+    background-color:  rgb(4, 143, 193);
+    border:10px ;
+    margin:5px;
+    padding:10px;
+}
+h1{
+    color: white;
+}
+p{
+    color:aliceblue;
+}
+button{
+    color:rgb(0, 0, 0);
+}
+button{
+    background-color: white;
+}
+button{
+    border:white;
+}
+table{ 
+    color:rgb(227, 222, 222);
+}
+ol{
+    color: rgb(245, 248, 245);
+}
+form{
+    color: rgb(198, 206, 199);
+}
